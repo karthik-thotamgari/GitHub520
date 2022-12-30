@@ -16,6 +16,9 @@ from pythonping import ping
 from requests_html import HTMLSession
 from retry import retry
 
+
+password = 'Reddy@3t37e'
+
 GITHUB_URLS = [
     'alive.github.com', 'api.github.com', 'assets-cdn.github.com',
     'avatars.githubusercontent.com', 'avatars0.githubusercontent.com',
@@ -107,6 +110,7 @@ def get_json(session: Any) -> Optional[list]:
     try:
         rs = session.get(url)
         data = json.loads(rs.text)
+        print(password)
         return data
     except Exception as ex:
         print(f"get: {url}, error: {ex}")
