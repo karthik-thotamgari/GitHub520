@@ -42,8 +42,8 @@
 185.199.108.133               avatars0.githubusercontent.com
 185.199.108.133               avatars1.githubusercontent.com
 185.199.108.133               avatars2.githubusercontent.com
-185.199.108.133               avatars3.githubusercontent.com
-185.199.108.133               avatars4.githubusercontent.com
+185.199.110.133               avatars3.githubusercontent.com
+185.199.110.133               avatars4.githubusercontent.com
 185.199.108.133               avatars5.githubusercontent.com
 185.199.108.133               camo.githubusercontent.com
 140.82.112.21                 central.github.com
@@ -51,7 +51,7 @@
 140.82.114.9                  codeload.github.com
 140.82.113.21                 collector.github.com
 185.199.108.133               desktop.githubusercontent.com
-185.199.110.133               favicons.githubusercontent.com
+185.199.108.133               favicons.githubusercontent.com
 140.82.114.3                  gist.github.com
 3.5.29.96                     github-cloud.s3.amazonaws.com
 52.216.57.233                 github-com.s3.amazonaws.com
@@ -62,13 +62,13 @@
 140.82.114.3                  github.com
 140.82.112.17                 github.community
 185.199.110.154               github.githubassets.com
-151.101.193.194               github.global.ssl.fastly.net
+151.101.1.194                 github.global.ssl.fastly.net
 185.199.110.153               github.io
-185.199.110.133               github.map.fastly.net
+185.199.108.133               github.map.fastly.net
 185.199.110.153               githubstatus.com
 140.82.114.26                 live.github.com
 185.199.108.133               media.githubusercontent.com
-185.199.110.133               objects.githubusercontent.com
+185.199.108.133               objects.githubusercontent.com
 13.107.42.16                  pipelines.actions.githubusercontent.com
 185.199.108.133               raw.githubusercontent.com
 185.199.108.133               user-images.githubusercontent.com
@@ -76,14 +76,14 @@
 140.82.112.21                 education.github.com
 
 
-# Update time: 2023-12-10T09:16:12+08:00
+# Update time: 2023-12-10T10:29:55+08:00
 # Update url: https://raw.hellogithub.com/hosts
 # Star me: https://github.com/521xueweihan/GitHub520
 # GitHub520 Host End
 
 ```
 
-该内容会自动定时更新， 数据更新时间：2023-12-10T09:16:12+08:00
+该内容会自动定时更新， 数据更新时间：2023-12-10T10:29:55+08:00
 
 #### 2.1.2 修改 hosts 文件
 
